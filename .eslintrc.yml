@@ -1,0 +1,5 @@
+extends: neptun-react
+settings:
+  react:
+    pragma: createElement
+parser: babel-eslint
